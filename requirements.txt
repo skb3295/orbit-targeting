@@ -1,1 +1,7 @@
-
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+cartopy>=0.22
+ 
+# Only needed to run the tests:  pip install pytest
+# pytest>=7
